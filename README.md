@@ -6,3 +6,4 @@ Deployment Instructions:
 4. We have created a local file for streamlit which we can run using streamlit run NBA_Analysis.py command
 
 NOTE: The changes from the last presentation have been done. We have modified some of our analysis and detailed explanation about each of the analysis have been given in the reposrt after each analysis in the NOTE session.
+The updated PPT has also been uploaded on canvas. 
